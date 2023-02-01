@@ -1,0 +1,25 @@
+.App {
+  background-color: beige;
+    
+}
+
+.title{
+  padding-top: 20px;
+  padding-bottom:20px ;
+}
+
+
+.me-auto {
+  margin-left: auto;   
+  gap:  200px;   
+  
+}
+
+.last {
+
+margin-left: 50px;
+font-weight: bold;
+}
+
+
+
